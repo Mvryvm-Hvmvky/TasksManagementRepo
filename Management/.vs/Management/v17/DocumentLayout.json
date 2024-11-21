@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I-SEVEN\\Desktop\\Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79718B77-F865-4BA9-A86B-FDA6B2CD0136}|Management\\Management.csproj|c:\\users\\i-seven\\desktop\\management\\management\\managerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79718B77-F865-4BA9-A86B-FDA6B2CD0136}|Management\\Management.csproj|solutionrelative:management\\managerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79718B77-F865-4BA9-A86B-FDA6B2CD0136}|Management\\Management.csproj|c:\\users\\i-seven\\desktop\\management\\management\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79718B77-F865-4BA9-A86B-FDA6B2CD0136}|Management\\Management.csproj|solutionrelative:management\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79718B77-F865-4BA9-A86B-FDA6B2CD0136}|Management\\Management.csproj|C:\\Users\\I-SEVEN\\Desktop\\Management\\management\\employeepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79718B77-F865-4BA9-A86B-FDA6B2CD0136}|Management\\Management.csproj|solutionrelative:management\\employeepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79718B77-F865-4BA9-A86B-FDA6B2CD0136}|Management\\Management.csproj|C:\\Users\\I-SEVEN\\Desktop\\Management\\management\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79718B77-F865-4BA9-A86B-FDA6B2CD0136}|Management\\Management.csproj|solutionrelative:management\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79718B77-F865-4BA9-A86B-FDA6B2CD0136}|Management\\Management.csproj|C:\\Users\\I-SEVEN\\Desktop\\Management\\management\\sign.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79718B77-F865-4BA9-A86B-FDA6B2CD0136}|Management\\Management.csproj|solutionrelative:management\\sign.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79718B77-F865-4BA9-A86B-FDA6B2CD0136}|Management\\Management.csproj|c:\\users\\i-seven\\desktop\\management\\management\\managementmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{79718B77-F865-4BA9-A86B-FDA6B2CD0136}|Management\\Management.csproj|solutionrelative:management\\managementmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\I-SEVEN\\Desktop\\Management\\Management\\ManagerPage.xaml",
+              "RelativeDocumentMoniker": "Management\\ManagerPage.xaml",
+              "ToolTip": "C:\\Users\\I-SEVEN\\Desktop\\Management\\Management\\ManagerPage.xaml",
+              "RelativeToolTip": "Management\\ManagerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-21T17:20:34.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagementModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\I-SEVEN\\Desktop\\Management\\Management\\ManagementModel.edmx",
+              "RelativeDocumentMoniker": "Management\\ManagementModel.edmx",
+              "ToolTip": "C:\\Users\\I-SEVEN\\Desktop\\Management\\Management\\ManagementModel.edmx [Diagram1]",
+              "RelativeToolTip": "Management\\ManagementModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-21T16:03:38.603Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\I-SEVEN\\Desktop\\Management\\Management\\ManagerPage.xaml.cs",
+              "RelativeDocumentMoniker": "Management\\ManagerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\I-SEVEN\\Desktop\\Management\\Management\\ManagerPage.xaml.cs",
+              "RelativeToolTip": "Management\\ManagerPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:20:00.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sign.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\I-SEVEN\\Desktop\\Management\\Management\\Sign.xaml.cs",
+              "RelativeDocumentMoniker": "Management\\Sign.xaml.cs",
+              "ToolTip": "C:\\Users\\I-SEVEN\\Desktop\\Management\\Management\\Sign.xaml.cs",
+              "RelativeToolTip": "Management\\Sign.xaml.cs",
+              "ViewState": "AgIAAAYAAABAMzMzMzMrwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:37:48.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\I-SEVEN\\Desktop\\Management\\Management\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Management\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\I-SEVEN\\Desktop\\Management\\Management\\Login.xaml.cs",
+              "RelativeToolTip": "Management\\Login.xaml.cs",
+              "ViewState": "AgIAABgAAAAAYmZmZkY2wCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:03:45.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\I-SEVEN\\Desktop\\Management\\Management\\EmployeePage.xaml.cs",
+              "RelativeDocumentMoniker": "Management\\EmployeePage.xaml.cs",
+              "ToolTip": "C:\\Users\\I-SEVEN\\Desktop\\Management\\Management\\EmployeePage.xaml.cs",
+              "RelativeToolTip": "Management\\EmployeePage.xaml.cs",
+              "ViewState": "AgIAABoAAABA/f////8lwB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:45:38.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
